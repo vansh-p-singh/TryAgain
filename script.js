@@ -45,10 +45,10 @@ letter2.addEventListener("click",()=>{
     letter2.style.top="-5vh";
     letter2.style.left="30vw";
     letter2.style.transform="none";
-    letter2.style.zIndex="10";
+    letter2.style.zIndex="11";
 })
 letter1.addEventListener("click",()=>{
     letter1.style.top="35vh";
     letter1.style.transform="none";
-    letter1.style.zIndex="10";
+    letter1.style.zIndex="12";
 })
